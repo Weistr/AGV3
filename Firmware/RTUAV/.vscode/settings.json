@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "bsp_delay.h": "c",
+        "remote_data.h": "c",
+        "bsp_adc.h": "c",
+        "filter.h": "c",
+        "pid.h": "c",
+        "user_main.h": "c",
+        "bsp_tim.h": "c",
+        "hrtim.h": "c"
+    }
+}
